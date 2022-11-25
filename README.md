@@ -1,3 +1,5 @@
+<img src="PG_WFTiMS.jpg" alt="Politechnika Gdańska" width="300" height="auto"> 
+
 #### Projekt bazy danych: <b> SKLEP INTERNETOWY </b>
 ---
 Mój własny projekt tworzony w trakcie studiów Data Science/Big Data  na Politechnice Gdańskiej.
